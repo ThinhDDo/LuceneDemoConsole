@@ -1,0 +1,4 @@
+FreeSpire.Doc.7.11.0
+FreeSpire.PDF.6.2.0
+Lucene.Net.3.0.3
+SharpZipLib.0.86.0
